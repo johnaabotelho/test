@@ -1,2 +1,3 @@
-var bla = 1
-var wtv = 2
+
+val wtv = 2
+val newVar = 33
