@@ -1,3 +1,3 @@
 
-var wtv = 2
-var newVar = 33
+val wtv = 2
+val newVar = 33
